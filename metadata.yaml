@@ -29,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3796
     wikipedia: http://en.wikipedia.org/wiki/Alice_Muriel_Williamson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30907#Rosemary-in-Search-of-a-Father
 gutenberg_issued: '2010-01-09'
 gutenberg_type: Text
 identifiers:
